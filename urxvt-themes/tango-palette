@@ -1,0 +1,38 @@
+!--------------------xdefauls
+!-------- source: https://bastian.rieck.me/blog/posts/2013/making_urxvt_beautiful/
+URxvt.font: xft:MesloLGS NF:pixelsize=14
+urxvt*termName: rxvt
+urxvt*scrollBar: false
+urxvt*matcher.button: 1
+urxvt.transparent: true
+urxvt.boldFont:
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: true
+Xft*hintstyle: hintfull
+URxvt*cursorUnderline:  true
+Xft*rgba: rgb
+URxvt*geometry: 85x20
+*internalBorder: 23
+URxvt*fading: 0
+URxvt*tintColor: #ffffff
+URxvt*shading: 15
+URxvt*inheritPixmap: False
+urxvt*foreground: white
+urxvt*background: black
+*color0:  #2E3436
+*color1:  #a40000
+*color2:  #4E9A06
+*color3:  #C4A000
+*color4:  #3465A4
+*color5:  #75507B
+*color6:  #ce5c00
+*color7:  #babdb9
+*color8:  #555753
+*color9:  #EF2929
+*color10: #8AE234
+*color11: #FCE94F
+*color12: #729FCF
+*color13: #AD7FA8
+*color14: #fcaf3e
+*color15: #EEEEEC
